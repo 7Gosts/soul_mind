@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文小说编辑"
+  short_description: "通读中文小说，诊断节奏与表达问题，保留作者声音并落实已确认的修改"
+  default_prompt: "使用 $literary-editor 通读这篇小说，指出最影响阅读的地方，并区分必须校正的问题和可选的风格建议。"
